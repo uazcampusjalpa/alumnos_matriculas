@@ -1,0 +1,12 @@
+{
+  "alumnos" : [
+    {
+      "nombre" : "Andrea",
+      "matricula" : "38192608",
+    },
+    {
+      "nombre" : "Luis",
+      "matricula" : "38192891",
+    }
+  ]
+}
